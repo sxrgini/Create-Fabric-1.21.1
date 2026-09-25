@@ -12,4 +12,4 @@ for file in $(find ../src/main/java -type f -name "*.java"); do
 	echo "Converted $file"
 done
 
-echo 'Done'
+echo 'Done
