@@ -1,4 +1,1 @@
-- fixed crash with an optimized limestone or scoria generator (#1834)
-- fix mixing potions in basins (#1826)
-- fix dragging and dropping into filters from EMI (#1829)
-- added missing dependencies to mod metadata (#1837)
+- Ported to Fabric 1.21.1
