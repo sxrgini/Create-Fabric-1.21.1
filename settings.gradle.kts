@@ -1,5 +1,3 @@
-rootProject.name = "create-fabric"
-
 pluginManagement {
     repositories {
         maven("https://maven.fabricmc.net/")
